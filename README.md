@@ -35,5 +35,5 @@ Este script em Bash automatiza a preparação de um servidor web do zero, garant
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
+   git clone [https://github.com/juniorVMX/linux-projeto2-iac.git](https://github.com/juniorVMX/linux-projeto2-iac.git)
+   cd linux-projeto2-iac
